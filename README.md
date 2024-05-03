@@ -2,7 +2,7 @@ Kia Ora, I recently graduated from Dev Academy; a 17 week NZQA Level 6 Certifica
 
 My career aspirations are to develop software that creates tangible impact to the lives of the user or broader society, such as increasing supply chain transparency to combat greenwashing. I am also interested in game development and VR. Long term I plan to work in a remote position where my work is location independent, enabling me to travel the world whilst working as a developer.
 
-I am currently looking for an entry level position in Software or Web development, remote anywhere in the world or based in Auckland, New Zealand. If you are hiring, have advice or just wanna yarn, send me a message!
+I am currently looking for an entry level position in software/web development, remote anywhere in the world or based in Auckland, New Zealand. If you are hiring, have advice or just wanna yarn, send me a message!
 
 Contact me at:
 Email - darraghcarraher@gmail.com  LinkedIn - https://www.linkedin.com/in/darragh-carraher-974a39280/   Phone Number - 02108679951 
